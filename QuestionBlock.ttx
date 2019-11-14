@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.44">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="Question_Block"/>
+    <GlyphID id="2" name="Gold"/>
+    <GlyphID id="3" name="Black"/>
+    <GlyphID id="4" name="DarkBrown"/>
+  </GlyphOrder>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="1.0"/>
+    <checkSumAdjustment value="0xce8a4ef"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00001011"/>
+    <unitsPerEm value="1024"/>
+    <created value="Wed Nov 13 18:58:18 2019"/>
+    <modified value="Wed Nov 13 19:22:32 2019"/>
+    <xMin value="0"/>
+    <yMin value="-205"/>
+    <xMax value="1024"/>
+    <yMax value="819"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="8"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="819"/>
+    <descent value="-205"/>
+    <lineGap value="92"/>
+    <advanceWidthMax value="1024"/>
+    <minLeftSideBearing value="0"/>
+    <minRightSideBearing value="0"/>
+    <xMaxExtent value="1024"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
+    <caretOffset value="0"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="4"/>
+  </hhea>
+
+  <maxp>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="0x10000"/>
+    <numGlyphs value="7"/>
+    <maxPoints value="74"/>
+    <maxContours value="11"/>
+    <maxCompositePoints value="0"/>
+    <maxCompositeContours value="0"/>
+    <maxZones value="2"/>
+    <maxTwilightPoints value="0"/>
+    <maxStorage value="1"/>
+    <maxFunctionDefs value="1"/>
+    <maxInstructionDefs value="0"/>
+    <maxStackElements value="64"/>
+    <maxSizeOfInstructions value="46"/>
+    <maxComponentElements value="0"/>
+    <maxComponentDepth value="0"/>
+  </maxp>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="4"/>
+    <xAvgCharWidth value="1024"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="665"/>
+    <ySubscriptYSize value="716"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="143"/>
+    <ySuperscriptXSize value="665"/>
+    <ySuperscriptYSize value="716"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="491"/>
+    <yStrikeoutSize value="51"/>
+    <yStrikeoutPosition value="265"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="5"/>
+      <bProportion value="9"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 10000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="PfEd"/>
+    <fsSelection value="00000000 11000000"/>
+    <usFirstCharIndex value="9072"/>
+    <usLastCharIndex value="9072"/>
+    <sTypoAscender value="819"/>
+    <sTypoDescender value="-205"/>
+    <sTypoLineGap value="92"/>
+    <usWinAscent value="819"/>
+    <usWinDescent value="205"/>
+    <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="0"/>
+    <sCapHeight value="0"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContext value="1"/>
+  </OS_2>
+
+  <hmtx>
+    <mtx name=".notdef" width="1024" lsb="34"/>
+    <mtx name="Black" width="1024" lsb="0"/>
+    <mtx name="DarkBrown" width="1024" lsb="0"/>
+    <mtx name="Gold" width="1024" lsb="0"/>
+    <mtx name="Question_Block" width="1024" lsb="0"/>
+  </hmtx>
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x2370" name="Question_Block"/><!-- APL FUNCTIONAL SYMBOL QUAD QUESTION -->
+    </cmap_format_4>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x2370" name="Question_Block"/><!-- APL FUNCTIONAL SYMBOL QUAD QUESTION -->
+    </cmap_format_4>
+  </cmap>
+
+  <cvt>
+    <cv index="0" value="34"/>
+    <cv index="1" value="648"/>
+  </cvt>
+
+  <loca>
+    <!-- The 'loca' table will be calculated by the compiler -->
+  </loca>
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+    <TTGlyph name=".notdef"/>
+    <TTGlyph name="Black" xMin="0" yMin="-205" xMax="1024" yMax="819">
+      <contour>
+        <pt x="512" y="-77" on="1"/>
+        <pt x="512" y="51" on="1"/>
+        <pt x="640" y="51" on="1"/>
+        <pt x="640" y="-77" on="1"/>
+      </contour>
+      <contour>
+        <pt x="128" y="-77" on="1"/>
+        <pt x="128" y="-13" on="1"/>
+        <pt x="192" y="-13" on="1"/>
+        <pt x="192" y="-77" on="1"/>
+      </contour>
+      <contour>
+        <pt x="128" y="627" on="1"/>
+        <pt x="128" y="691" on="1"/>
+        <pt x="192" y="691" on="1"/>
+        <pt x="192" y="627" on="1"/>
+      </contour>
+      <contour>
+        <pt x="832" y="-77" on="1"/>
+        <pt x="832" y="-13" on="1"/>
+        <pt x="896" y="-13" on="1"/>
+        <pt x="896" y="-77" on="1"/>
+      </contour>
+      <contour>
+        <pt x="832" y="627" on="1"/>
+        <pt x="832" y="691" on="1"/>
+        <pt x="896" y="691" on="1"/>
+        <pt x="896" y="627" on="1"/>
+      </contour>
+      <contour>
+        <pt x="0" y="-205" on="1"/>
+        <pt x="0" y="-148" on="1"/>
+        <pt x="962" y="-148" on="1"/>
+        <pt x="968" y="819" on="1"/>
+        <pt x="1024" y="819" on="1"/>
+        <pt x="1024" y="-205" on="1"/>
+      </contour>
+      <contour>
+        <pt x="454" y="309" on="1"/>
+        <pt x="320" y="309" on="1"/>
+        <pt x="320" y="502" on="1"/>
+        <pt x="382" y="502" on="1"/>
+        <pt x="382" y="563" on="1"/>
+        <pt x="722" y="563" on="1"/>
+        <pt x="722" y="502" on="1"/>
+        <pt x="768" y="502" on="1"/>
+        <pt x="768" y="247" on="1"/>
+        <pt x="624" y="247" on="1"/>
+        <pt x="624" y="115" on="1"/>
+        <pt x="490" y="115" on="1"/>
+        <pt x="490" y="247" on="1"/>
+        <pt x="562" y="247" on="1"/>
+        <pt x="562" y="309" on="1"/>
+        <pt x="624" y="309" on="1"/>
+        <pt x="624" y="502" on="1"/>
+        <pt x="454" y="502" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="DarkBrown" xMin="0" yMin="-141" xMax="960" yMax="819">
+      <contour>
+        <pt x="64" y="755" on="1"/>
+        <pt x="64" y="819" on="1"/>
+        <pt x="960" y="819" on="1"/>
+        <pt x="960" y="755" on="1"/>
+      </contour>
+      <contour>
+        <pt x="0" y="-141" on="1"/>
+        <pt x="0" y="755" on="1"/>
+        <pt x="64" y="755" on="1"/>
+        <pt x="64" y="-141" on="1"/>
+      </contour>
+      <contour>
+        <pt x="448" y="-13" on="1"/>
+        <pt x="448" y="115" on="1"/>
+        <pt x="576" y="115" on="1"/>
+        <pt x="576" y="-13" on="1"/>
+      </contour>
+      <contour>
+        <pt x="390" y="373" on="1"/>
+        <pt x="256" y="373" on="1"/>
+        <pt x="256" y="566" on="1"/>
+        <pt x="318" y="566" on="1"/>
+        <pt x="318" y="627" on="1"/>
+        <pt x="658" y="627" on="1"/>
+        <pt x="658" y="566" on="1"/>
+        <pt x="704" y="566" on="1"/>
+        <pt x="704" y="311" on="1"/>
+        <pt x="560" y="311" on="1"/>
+        <pt x="560" y="179" on="1"/>
+        <pt x="426" y="179" on="1"/>
+        <pt x="426" y="311" on="1"/>
+        <pt x="498" y="311" on="1"/>
+        <pt x="498" y="373" on="1"/>
+        <pt x="560" y="373" on="1"/>
+        <pt x="560" y="566" on="1"/>
+        <pt x="390" y="566" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="Gold" xMin="0" yMin="-205" xMax="1024" yMax="755">
+      <contour>
+        <pt x="0" y="-205" on="1"/>
+        <pt x="0" y="755" on="1"/>
+        <pt x="1024" y="755" on="1"/>
+        <pt x="1024" y="-205" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="Question_Block" xMin="0" yMin="-205" xMax="1024" yMax="819">
+      <contour>
+        <pt x="512" y="-77" on="1"/>
+        <pt x="512" y="51" on="1"/>
+        <pt x="640" y="51" on="1"/>
+        <pt x="640" y="-77" on="1"/>
+      </contour>
+      <contour>
+        <pt x="128" y="-77" on="1"/>
+        <pt x="128" y="-13" on="1"/>
+        <pt x="192" y="-13" on="1"/>
+        <pt x="192" y="-77" on="1"/>
+      </contour>
+      <contour>
+        <pt x="128" y="627" on="1"/>
+        <pt x="128" y="691" on="1"/>
+        <pt x="192" y="691" on="1"/>
+        <pt x="192" y="627" on="1"/>
+      </contour>
+      <contour>
+        <pt x="832" y="-77" on="1"/>
+        <pt x="832" y="-13" on="1"/>
+        <pt x="896" y="-13" on="1"/>
+        <pt x="896" y="-77" on="1"/>
+      </contour>
+      <contour>
+        <pt x="832" y="627" on="1"/>
+        <pt x="832" y="691" on="1"/>
+        <pt x="896" y="691" on="1"/>
+        <pt x="896" y="627" on="1"/>
+      </contour>
+      <contour>
+        <pt x="0" y="-205" on="1"/>
+        <pt x="0" y="-148" on="1"/>
+        <pt x="962" y="-148" on="1"/>
+        <pt x="968" y="819" on="1"/>
+        <pt x="1024" y="819" on="1"/>
+        <pt x="1024" y="-205" on="1"/>
+      </contour>
+      <contour>
+        <pt x="454" y="309" on="1"/>
+        <pt x="320" y="309" on="1"/>
+        <pt x="320" y="502" on="1"/>
+        <pt x="382" y="502" on="1"/>
+        <pt x="382" y="563" on="1"/>
+        <pt x="722" y="563" on="1"/>
+        <pt x="722" y="502" on="1"/>
+        <pt x="768" y="502" on="1"/>
+        <pt x="768" y="247" on="1"/>
+        <pt x="624" y="247" on="1"/>
+        <pt x="624" y="115" on="1"/>
+        <pt x="490" y="115" on="1"/>
+        <pt x="490" y="247" on="1"/>
+        <pt x="562" y="247" on="1"/>
+        <pt x="562" y="309" on="1"/>
+        <pt x="624" y="309" on="1"/>
+        <pt x="624" y="502" on="1"/>
+        <pt x="454" y="502" on="1"/>
+      </contour>
+      <contour>
+        <pt x="64" y="755" on="1"/>
+        <pt x="64" y="819" on="1"/>
+        <pt x="960" y="819" on="1"/>
+        <pt x="960" y="755" on="1"/>
+      </contour>
+      <contour>
+        <pt x="0" y="-141" on="1"/>
+        <pt x="0" y="755" on="1"/>
+        <pt x="64" y="755" on="1"/>
+        <pt x="64" y="-141" on="1"/>
+      </contour>
+      <contour>
+        <pt x="448" y="-13" on="1"/>
+        <pt x="448" y="115" on="1"/>
+        <pt x="576" y="115" on="1"/>
+        <pt x="576" y="-13" on="1"/>
+      </contour>
+      <contour>
+        <pt x="390" y="373" on="1"/>
+        <pt x="256" y="373" on="1"/>
+        <pt x="256" y="566" on="1"/>
+        <pt x="318" y="566" on="1"/>
+        <pt x="318" y="627" on="1"/>
+        <pt x="658" y="627" on="1"/>
+        <pt x="658" y="566" on="1"/>
+        <pt x="704" y="566" on="1"/>
+        <pt x="704" y="311" on="1"/>
+        <pt x="560" y="311" on="1"/>
+        <pt x="560" y="179" on="1"/>
+        <pt x="426" y="179" on="1"/>
+        <pt x="426" y="311" on="1"/>
+        <pt x="498" y="311" on="1"/>
+        <pt x="498" y="373" on="1"/>
+        <pt x="560" y="373" on="1"/>
+        <pt x="560" y="566" on="1"/>
+        <pt x="390" y="566" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+  </glyf>
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Copyright (c) 2019, Ted Mielczarek,,,
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Question Block
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      FontForge 2.0 : Untitled1 : 13-11-2019
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Question Block
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 001.000 
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Untitled1
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2019, Ted Mielczarek,,,
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Question Block
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      FontForge 2.0 : Question Block : 13-11-2019
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Question Block
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 001.000 
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Question Block
+    </namerecord>
+  </name>
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-128"/>
+    <underlineThickness value="51"/>
+    <isFixedPitch value="1"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="glyph1"/>
+      <psName name="glyph2"/>
+      <psName name="Question_Block"/>
+      <psName name="Gold"/>
+      <psName name="Black"/>
+      <psName name="DarkBrown"/>
+    </extraNames>
+  </post>
+
+  <gasp>
+    <gaspRange rangeMaxPPEM="65535" rangeGaspBehavior="2"/>
+  </gasp>
+
+  <FFTM>
+    <!-- FontForge's timestamp, font source creation and modification dates -->
+    <version value="1"/>
+    <FFTimeStamp value="Mon Jan 14 19:59:18 2019"/>
+    <sourceCreated value="Wed Nov 13 18:58:18 2019"/>
+    <sourceModified value="Wed Nov 13 19:22:32 2019"/>
+  </FFTM>
+
+  <GDEF>
+    <Version value="0x00010000"/>
+    <LigCaretList>
+      <Coverage Format="2">
+      </Coverage>
+      <!-- LigGlyphCount=0 -->
+    </LigCaretList>
+    <MarkAttachClassDef Format="1">
+    </MarkAttachClassDef>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph="Question_Block" class="1"/>
+    </GlyphClassDef>
+  </GDEF>
+
+  <COLR>
+    <version value="0"/>
+    <ColorGlyph name="Question_Block">
+      <layer colorID="0" name="Gold"/>
+      <layer colorID="1" name="Black"/>
+      <layer colorID="2" name="DarkBrown"/>
+    </ColorGlyph>
+  </COLR>
+
+  <CPAL>
+    <version value="0"/>
+    <numPaletteEntries value="3"/>
+    <palette index="0">
+      <color index="0" value="#E79C21FF"/>
+      <color index="1" value="#000000FF"/>
+      <color index="2" value="#9C4A00FF"/>
+    </palette>
+  </CPAL>
+
+</ttFont>
